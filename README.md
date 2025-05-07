@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 ## Date:02-05-2025
-## Register Number:212222100031
-## Name: J.Nethraa
+## Register Number:212222100056
+## Name: Tharun Kumar M
 ## Problem Title
 ##  SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
 
